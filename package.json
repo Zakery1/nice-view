@@ -1,0 +1,19 @@
+{
+  "name": "nice-view",
+  "version": "1.0.0",
+  "description": "try out vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zakery1/nice-view.git"
+  },
+  "author": "zg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zakery1/nice-view/issues"
+  },
+  "homepage": "https://github.com/Zakery1/nice-view#readme"
+}
